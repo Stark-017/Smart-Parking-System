@@ -1,0 +1,6 @@
+streamlit>=1.38,<2
+ultralytics==8.4.170
+numpy<2.3
+pandas
+Pillow
+PyYAML
